@@ -3,3 +3,6 @@
 
 # Ignore pkg folder
 /pkg
+
+# Ignore VS Code files
+/.vscode
