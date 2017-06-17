@@ -9,6 +9,9 @@ group :development do
   gem 'rake'
   gem 'rdoc'
   gem 'yard'
+  gem 'guard'
+  gem 'guard-rspec'
+  gem 'guard-cucumber'
 end
 
 group :test do
